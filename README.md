@@ -1,5 +1,5 @@
 - Name: Patrick Bucher
-- Profession: Software Developer, Teacher, Enterpreneur
+- Profession: Software Developer, Teacher, Entrepreneur
 - Private Website: [www.paedubucher.ch](https://www.paedubucher.ch/)
 - Company Website: [www.composed.ch](https://www.composed.ch/)
 
