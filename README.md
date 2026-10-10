@@ -1,6 +1,3 @@
-- Name: Patrick Bucher
-- Profession: Software Developer, Teacher, Entrepreneur
-- Private Website: [www.paedubucher.ch](https://www.paedubucher.ch/)
-- Company Website: [www.composed.ch](https://www.composed.ch/)
+I'm Patrick Bucher, a software engineer, teacher, and founder of [Composed](https://www.composed.ch/).
 
 I'll be moving some of my repositories from GitHub to Codeberg, see [codeberg.org/patrickbucher](https://codeberg.org/patrickbucher/).
